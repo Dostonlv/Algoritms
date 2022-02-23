@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef1210c3-c033-411b-a897-24db2db48689" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/codewars/String ends with?.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/two_sum.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/two_sum.ts" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +61,8 @@
       <option name="presentableId" value="Default" />
       <updated>1643996422845</updated>
       <workItem from="1643996423955" duration="134000" />
-      <workItem from="1643996609163" duration="1884000" />
+      <workItem from="1643996609163" duration="2829000" />
+      <workItem from="1645589506562" duration="416000" />
     </task>
     <servers />
   </component>
